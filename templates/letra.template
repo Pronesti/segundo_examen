@@ -1,0 +1,1 @@
+<a href='/jugar/{{letra}}' class="btn btn-primary">{{letraMayus}}</a>

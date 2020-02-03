@@ -1,0 +1,8 @@
+<h1> Palabra: </br>
+{{palabra}}
+</br></h1><h3> Vidas restantes: </h3><h1>
+{{vidas}}
+</h1>
+<h3> Letras Jugadas: </br>
+{{letrasJugadas}}
+</h3></br>

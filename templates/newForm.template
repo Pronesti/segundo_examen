@@ -1,0 +1,10 @@
+<div class='card m-3 p-3'>
+<form class="form-group" action='empezarJuego' method='post'>
+    <h1>Nuevo Juego</h1>
+    <label>Selecciona la palabra para jugar:</label></br>
+    <input class="form-control" type='text' name='palabra' autocapitalize='none' pattern='[a-zA-Z]+'></input>
+    </br><label>Selecciona la cantidad de vidas:</label></br>
+    <input class="form-control" type='number' name='vidas' min='1' step='1'></input></br></br>
+    <input class="btn btn-primary w-100" type='submit' name='postForm' value='Empezar Juego'>
+</form>
+</div>

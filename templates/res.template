@@ -1,0 +1,6 @@
+<div class='card m-3 p-3'>
+<h1 class='text-center'>{{res}}</h1>
+<form class='form-group' action='reiniciar' method='post'>
+<input class='btn btn-primary w-100' type='submit' value='reiniciar'>
+</form>
+<div>
